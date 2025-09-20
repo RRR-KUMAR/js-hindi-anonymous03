@@ -13,7 +13,7 @@ let valueInnumber = Number((score))
 // true => 1; false => 0
 
 
-let isLoggedIn = "Rider"
+let isLoggedIn = "Ram"
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 // console.log(booleanIsLoggedIn);
