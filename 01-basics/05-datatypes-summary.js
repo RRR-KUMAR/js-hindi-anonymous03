@@ -42,6 +42,7 @@ console.log(typeof scoreValue);
 console.log(typeof Function);
 console.log(typeof heros);
 console.log(typeof anotherId;
+    
 
 
 // Link to study
