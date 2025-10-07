@@ -36,15 +36,43 @@ const myFunction = function(){
 }
 
 
-console.log(typeof bigNumber);
+/*console.log(typeof bigNumber);
 console.log(typeof outsideTemp);
 console.log(typeof scoreValue);
 console.log(typeof Function);
 console.log(typeof heros);
-console.log(typeof anotherId;
+console.log(typeof anotherId;*/
     
 
 
 // Link to study
 // https://tc39.es/ecma262/multipage/ecmascript-data-types-and-values.html
     
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (Premitive), Heap (Non-Primitive)
+
+let myYoutubename = "RAHULKUMAR"
+
+let anothername = myYoutubename
+anothername = "chaiaurcode"
+
+
+console.log(myYoutubename);
+console.log(anothername);
+
+let userOne = {
+    emali: "user@google.com",
+    upi: "user@ybl"
+}
+
+let userTwo = userOne
+
+userTwo.emali = "03anonymous@google.com"
+userTwo.emali = "rahulpatel626@google.com"
+
+console.log(userOne.emali);
+console.log(userTwo.emali)
+
