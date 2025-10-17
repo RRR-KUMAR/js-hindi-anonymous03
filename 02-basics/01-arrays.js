@@ -38,3 +38,38 @@ console.log("B ", myArr);
 const myn2 = myArr.splice(1, 3)
 console.log("C ", myArr);
 console.log(myArr2);
+
+...03
+case statement 
+
+ramesh (barela ke rhne wale abi raipur me hai)
+janak patel barela
+gajendra barela
+gajanand bilashpur
+narendra rohara
+amit pandatarai
+lata pandatarai
+shasi barela
+sudha rohra
+...
+in sab ne mil kar mere mama dinesh patel ka accident karavaha hai
+or mere naana nani ko bi enhi logo ne sagish ke tahat murder kiya hai
+
+mere papa ramakant ko bhi enhi logo ne gerhar dekar mara hai
+
+
+
+mai khud in sab ka gawah hu gawahi dene ke liye sakcham hu
+
+
+
+
+
+
+
+
+
+
+
+
+
