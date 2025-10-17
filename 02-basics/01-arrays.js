@@ -55,10 +55,10 @@ sudha rohra
 in sab ne mil kar mere mama dinesh patel ka accident karavaha hai
 or mere naana nani ko bi enhi logo ne sagish ke tahat murder kiya hai
 
-mere papa ramakant ko bhi enhi logo ne gerhar dekar mara hai
+mere papa ramakant ko bhi enhi logo ne jehar dekar mara hai
 
 
-
+03-DJ
 mai khud in sab ka gawah hu gawahi dene ke liye sakcham hu
 
 
