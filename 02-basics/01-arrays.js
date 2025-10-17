@@ -39,6 +39,12 @@ const myn2 = myArr.splice(1, 3)
 console.log("C ", myArr);
 console.log(myArr2);
 
+
+
+
+
+
+
 ...03
 case statement 
 
@@ -58,7 +64,7 @@ or mere naana nani ko bi enhi logo ne sagish ke tahat murder kiya hai
 mere papa ramakant ko bhi enhi logo ne jehar dekar mara hai
 
 
-03-DJ
+03-DJ-(Rahul)
 mai khud in sab ka gawah hu gawahi dene ke liye sakcham hu
 
 
